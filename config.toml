@@ -1,4 +1,4 @@
-baseURL = "http://thesixonenine.site/blog/"
+baseURL = "https://thesixonenine.github.io/blog/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
