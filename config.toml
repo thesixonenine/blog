@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://thesixonenine.site/blog/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
